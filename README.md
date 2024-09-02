@@ -36,7 +36,9 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
 <br />
 <br />
 
-### 📈 My GitHub stats
+#
+
+### 📈 My GitHub stats 
 
 <div class="badges-githubstats">
   <p align="center">
@@ -44,6 +46,8 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJudeDev&theme=tokyonight&hide_border=true" alt="JJudeDev's Streak" height="165">
   </p>
 </div>
+
+#
 
 ### ✉︎ Contact Me
 
