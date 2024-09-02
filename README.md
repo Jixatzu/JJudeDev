@@ -49,5 +49,5 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
 
 <a href="https://www.linkedin.com/in/jermaine-jude-cabigon-322355323/">
    <img alt="" title="" src="https://custom-icon-badges.demolab.com/badge/Jermaine Jude Cabigon-white?style=for-the-badge&logo=linkedin&logoColor=%230274b3&label=LinkedIn&labelColor=%23ffffff&color=%230274b3"></a><br />
-<a href="mailto%3Ajjcabigon09%40gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jjcabigon09@gmail.com">
    <img alt="" title="" src="https://custom-icon-badges.demolab.com/badge/jjcabigon09%40gmail.com-white?style=for-the-badge&logo=mail&logoColor=%23d54b3e&label=Gmail&labelColor=%23ffffff&color=%23d54b3e"></a><br />
