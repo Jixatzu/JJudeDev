@@ -4,6 +4,7 @@
 
 Recent BSIT graduate with a passion for software development I enjoy working on projects that challenge me to learn new technologies and improve my coding skills. Always eager to contribute to open-source projects and collaborate with other developers.
 
+<!-- PROFILE BUTTONS -->
    <p align="left">
      <img src="https://komarev.com/ghpvc/?username=JJudeDev&style=for-the-badge&color=red" alt="visitor_badge">
       <a href="https://github.com/JJudeDev?tab=followers">
@@ -16,6 +17,7 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
 
 ### 🛠️ Languages and Tools
 
+<!-- TOOLS AND LANGUAGES LOGOS -->
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -40,6 +42,7 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
 
 ### 📈 My GitHub stats 
 
+<!-- GITHUB STATS APIS -->
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JJudeDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="JJudeDev's Stats" height="165">
@@ -51,6 +54,7 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
 
 ### ✉︎ Contact Me
 
+<!-- CONTACT APIS -->
 <a href="https://www.linkedin.com/in/jermaine-jude-cabigon-322355323/">
    <img alt="" title="" src="https://custom-icon-badges.demolab.com/badge/Jermaine Jude Cabigon-white?style=for-the-badge&logo=linkedin&logoColor=%230274b3&label=LinkedIn&labelColor=%23ffffff&color=%230274b3"></a><br />
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jjcabigon09@gmail.com">
