@@ -6,11 +6,11 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
 
 <!-- PROFILE BUTTONS -->
    <p align="left">
-     <img src="https://komarev.com/ghpvc/?username=JJudeDev&style=for-the-badge&color=red" alt="visitor_badge">
-      <a href="https://github.com/JJudeDev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JJudeDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/JJudeDev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JJudeDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+     <img src="https://komarev.com/ghpvc/?username=Jixatzu&style=for-the-badge&color=red" alt="visitor_badge">
+      <a href="https://github.com/Jixatzu?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jixatzu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Jixatzu?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jixatzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -47,8 +47,8 @@ Recent BSIT graduate with a passion for software development I enjoy working on 
 <!-- GITHUB STATS APIS -->
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JJudeDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="JJudeDev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJudeDev&theme=tokyonight&hide_border=true" alt="JJudeDev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jixatzu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Jixatzu's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jixatzu&theme=tokyonight&hide_border=true" alt="Jixatzu's Streak" height="165">
   </p>
 </div>
 
