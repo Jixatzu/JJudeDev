@@ -1,4 +1,4 @@
-# 👨🏾‍💻 JJudeDev
+# 👨🏾‍💻 Jixatzu
 
 **`Digital Craftsman (Developer/Creator/Video Editor)`**
 
